@@ -1,4 +1,19 @@
-1.Factorial Program In Java
-2.Calculate Electricity Bill
-3.Calculate Average Of N Numbers
-4.Calculate Discount Of Product
+1. Factorial Program In Java
+2. Calculate Electricity Bill
+3. Calculate Average Of N Numbers
+4. Calculate Discount Of Product
+5. Calculate Distance Between Two Points
+6. Calculate Commission Percentage
+7. Power In Java
+8. Calculate Depreciation of Value
+9. Calculate Batting Average
+10. Calculate CGPA Java Program
+11. Find NCR & NPR
+12. Reverse A String In Java
+13. Java Program to find numbers of Vowel & Consonant & spaces
+14. Perfect Number In Java
+15. Sum Of A Digits Of Number
+16. Write a program to print the sum of negative numbers, 
+    sum of positive even numbers and 
+    the sum of positive odd numbers 
+    from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
